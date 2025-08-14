@@ -19,7 +19,7 @@ return {
     ["Kyn8s"] = {
         Tag = "kyn8s",
         Time = "Days: 7",
-        Key = "DYHUB-KYN8S-7DAY"
+        Key = "DYHUB-KYN8S-SUPPORT"
     },
     ["TH0PUM_KUNG"] = {
         Tag = "oszq_",
