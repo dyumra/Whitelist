@@ -103,13 +103,13 @@ return {
         Time = "Days: 7",
         Key = "DYHUB-XQJ29-M8K7H-PL4D6-2YWQ1-7BR85-KEY7DAY"
     },
-
-    -- ====================== Booster ==============================
     ["Monkeycheese3365"] = {
         Tag = "meboop90",
-        Time = "Days: 19",
-        Key = "DYHUB-JUYV2-A7OIQ-MJ42P-L8KQW-GD4A3-KEY14DAY"
+        Time = "Time: Lifetime",
+        Key = "DYHUB-JUYV2-A7OIQ-MJ42P-L8KQW-GD4A3-LIFETIME"
     },
+
+    -- ====================== Booster ==============================
     ["jssjshszs762"] = {
         Tag = "rosenest_ag8w",
         Time = "Days: 8",
