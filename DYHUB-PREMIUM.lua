@@ -4,7 +4,7 @@ return {
     ["Yolmar_43"] = {
         Tag = "dyumraisgoodguy",
         Time = "0",
-        Day = "99999999",
+        Day = 99999999,
         Key = "DYHUB-OWNER"
     },
     ["dyhub_01L01"] = {
