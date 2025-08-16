@@ -3,13 +3,13 @@ return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
         Tag = "dyumraisgoodguy",
-        Time = "nil",
+        Time = nil,
         Day = 99999999,
         Key = "DYHUB-OWNER"
     },
     ["dyhub_01L01"] = {
         Tag = "DYHUB01",
-        Time = "0",
+        Time = nil,
         Day = "-1",
         Key = "DYHUB-DYHUB01-ADMIN"
     },
