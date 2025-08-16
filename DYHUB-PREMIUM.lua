@@ -165,4 +165,10 @@ return {
         Day = 1,
         Key = "DYHUB-JUIBA-KEY1DAY"
     },
+    ["Arceus_xTest1"] = {
+        Tag = "cleitondosmemesofc",
+        Time = nil,
+        Day = 1,
+        Key = "DYHUB-JUYIB-KEY1DAY"
+    },
 }
