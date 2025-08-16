@@ -10,7 +10,7 @@ return {
     ["dyhub_01L01"] = {
         Tag = "DYHUB01",
         Time = nil,
-        Day = "-1",
+        Day = -1,
         Key = "DYHUB-DYHUB01-ADMIN"
     },
     ["dyumradyumra"] = {
