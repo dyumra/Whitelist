@@ -16,7 +16,7 @@ return {
     ["dyumradyumra"] = {
         Tag = "KUY",
         Time = "Lifetime",
-        Day = "0",
+        Day = nil,
         Key = "DYHUB-KUY-SIGMA"
     },
     ["Kyn8s"] = {
