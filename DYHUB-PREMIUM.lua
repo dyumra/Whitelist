@@ -123,6 +123,12 @@ return {
         Day = nil,
         Key = "DYHUB-JUYV2-A7OIQ-MJ42P-L8KQW-GD4A3-LIFETIME"
     },
+    ["NeoAsuraGD"] = {
+        Tag = "silent_erro",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-HUIH6-R3DX6-L9PH5-EW2QD-8H54D-LIFETIME"
+    },
     
     -- ====================== Buyer ==============================
     ["Denisamilcar7771"] = {
