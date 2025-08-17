@@ -165,7 +165,7 @@ return {
         Day = 1,
         Key = "DYHUB-HUTI5-KEY1DAY"
     },
-    ["themostrealest_BACON"] = {
+    ["gjthsut"] = {
         Tag = "notjapanese0",
         Time = nil,
         Day = 1,
