@@ -25,12 +25,6 @@ return {
         Day = 8888888,
         Key = "DYHUB-KYN8S-SUPPORT"
     },
-    ["TH0PUM_KUNG"] = {
-        Tag = "oszq_",
-        Time = "Lifetime",
-        Day = nil,
-        Key = "DYHUB-OSZQ-ADMIN"
-    },
     ["Fsaiohs"] = {
         Tag = "oszq_",
         Time = "Lifetime",
