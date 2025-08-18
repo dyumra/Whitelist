@@ -147,28 +147,4 @@ return {
         Day = 12,
         Key = "DYHUB-KU7AH-Q2B5A-MKG5A-B5S4E-I7GA3-KEY14DAY"
     },
-    ["MLG360Everest"] = {
-        Tag = "rockstarexpansion",
-        Time = nil,
-        Day = 1,
-        Key = "DYHUB-JUY5A-KEY1DAY"
-    },
-    ["uhhMeSksm"] = {
-        Tag = "sksmcutg",
-        Time = nil,
-        Day = 1,
-        Key = "DYHUB-HUTI5-KEY1DAY"
-    },
-    ["gjthsut"] = {
-        Tag = "notjapanese0",
-        Time = nil,
-        Day = 1,
-        Key = "DYHUB-JUIBA-KEY1DAY"
-    },
-    ["Arceus_xTest1"] = {
-        Tag = "cleitondosmemesofc",
-        Time = nil,
-        Day = 1,
-        Key = "DYHUB-JUYIB-KEY1DAY"
-    },
 }
