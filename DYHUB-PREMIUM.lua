@@ -147,7 +147,7 @@ return {
         Day = 12,
         Key = "DYHUB-KU7AH-Q2B5A-MKG5A-B5S4E-I7GA3-KEY14DAY"
     },
-    ["Bbqchickenloler"] = {
+    ["bbqchickenloler"] = {
         Tag = "lollanger",
         Time = nil,
         Day = 7,
