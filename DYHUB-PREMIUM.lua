@@ -37,6 +37,12 @@ return {
         Day = nil,
         Key = "DYHUB-FREE-UNLIMITED"
     },
+    ["Denbuzo423"] = {
+        Tag = "oszq_",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "oszq"
+    },
     ["Hanehxo91"] = {
         Tag = "Free",
         Time = "Lifetime",
