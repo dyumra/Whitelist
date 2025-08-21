@@ -37,7 +37,7 @@ return {
         Day = nil,
         Key = "DYHUB-FREE-UNLIMITED"
     },
-    ["Denbuzo423"] = {
+    ["Dentbuzo423"] = {
         Tag = "oszq_",
         Time = "Lifetime",
         Day = nil,
