@@ -159,4 +159,16 @@ return {
         Day = 7,
         Key = "DYHUB-HY6AG-BH68A-L9P87-E3R2Q-K8U64-KEY7DAY"
     },
+    ["Choybulosan"] = {
+        Tag = "aw03093",
+        Time = nil,
+        Day = 1,
+        Key = "DYHUB-KEY1DAY"
+    },
+    ["zyggpogi877"] = {
+        Tag = "lucaskye90",
+        Time = nil,
+        Day = 1,
+        Key = "DYHUB-KEY1DAY"
+    },
 }
