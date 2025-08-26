@@ -162,13 +162,13 @@ return {
     ["Bestdh81"] = {
         Tag = "aw03093",
         Time = nil,
-        Day = 1,
+        Day = 3,
         Key = "DYHUB-KEY1DAY"
     },
     ["zyggpogi877"] = {
         Tag = "lucaskye90",
         Time = nil,
-        Day = 1,
+        Day = 3,
         Key = "DYHUB-KEY1DAY"
     },
 }
