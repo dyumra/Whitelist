@@ -145,6 +145,12 @@ return {
         Day = 8,
         Key = "DYHUB-ROSENEST-3DAY"
     },
+    ["accountac7"] = {
+        Tag = "zeroless2",
+        Time = nil,
+        Day = 14,
+        Key = "DYHUB-DR5AF-P9DJ5-C4AD3-MKJ7E-N7AVF-KEYBOOSTER"
+    },
 
     -- ====================== Giveaway =============================
     ["Hiimnew928289alt2"] = {
