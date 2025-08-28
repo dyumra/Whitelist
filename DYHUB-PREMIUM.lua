@@ -19,6 +19,12 @@ return {
         Day = 7,
         Key = "DYHUB-KUY-SIGMA"
     },
+    ["II11I111I1I"] = {
+        Tag = "KUY",
+        Time = nil,
+        Day = 555555,
+        Key = "DYHUB-KUY-SIGMA1"
+    },
     ["Kyn8s"] = {
         Tag = "kyn8s",
         Time = nil,
