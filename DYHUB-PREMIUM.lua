@@ -183,4 +183,10 @@ return {
         Day = 3,
         Key = "DYHUB-KEY1DAY"
     },
+    ["Hayzul"] = {
+        Tag = "akuno5184",
+        Time = nil,
+        Day = 1,
+        Key = "DYHUB-KEY1DAY" -- buyer
+    },
 }
