@@ -183,10 +183,10 @@ return {
         Day = 3,
         Key = "DYHUB-KEY1DAY"
     },
-    ["Hayzul"] = {
-        Tag = "akuno5184",
+    ["rip_sae877"] = {
+        Tag = "vitrox2",
         Time = nil,
-        Day = 1,
-        Key = "DYHUB-KEY1DAY" -- buyer
+        Day = 7,
+        Key = "DYHUB-FT6UW-KEY7DAY" -- giveaway 
     },
 }
