@@ -195,4 +195,10 @@ return {
         Day = 7,
         Key = "DYHUB-FT6UW-KEY7DAY" -- giveaway 
     },
+    ["besta_6393"] = {
+        Tag = "nano_1010.",
+        Time = nil,
+        Day = 1,
+        Key = "DYHUB-12345" -- giveaway 
+    },
 }
