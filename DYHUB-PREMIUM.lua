@@ -136,7 +136,7 @@ return {
         Key = "DYHUB-HUIH6-R3DX6-L9PH5-EW2QD-8H54D-LIFETIME"
     },
     ["Khalil4258"] = {
-        Tag = "kyoromi_.",
+        Tag = "vibez_qxys",
         Time = "Lifetime",
         Day = nil,
         Key = "DYHUB-FU2JD-KIA1D-PKAHE-NAY6H-G51HA-LIFETIME"
@@ -194,11 +194,5 @@ return {
         Time = nil,
         Day = 7,
         Key = "DYHUB-FT6UW-KEY7DAY" -- giveaway 
-    },
-    ["besta_6393"] = {
-        Tag = "nano_1010.",
-        Time = nil,
-        Day = 1,
-        Key = "DYHUB-12345" -- giveaway 
     },
 }
