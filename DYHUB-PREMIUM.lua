@@ -135,7 +135,7 @@ return {
         Day = nil,
         Key = "DYHUB-HUIH6-R3DX6-L9PH5-EW2QD-8H54D-LIFETIME"
     },
-    ["Khalil4258"] = {
+    ["vibez_qxys"] = {
         Tag = "vibez_qxys",
         Time = "Lifetime",
         Day = nil,
