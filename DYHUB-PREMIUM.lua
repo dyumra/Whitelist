@@ -177,7 +177,7 @@ return {
         Day = 7,
         Key = "DYHUB-HY6AG-BH68A-L9P87-E3R2Q-K8U64-KEY7DAY"
     },
-    ["COOLGAMERSECOND51"] = {
+    ["Choybulosan"] = {
         Tag = "aw03093",
         Time = nil,
         Day = 3,
