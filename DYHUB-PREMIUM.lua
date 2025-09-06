@@ -189,6 +189,12 @@ return {
         Day = 3,
         Key = "DYHUB-KEY1DAY"
     },
+    ["BabySharkCuteRoblox"] = {
+        Tag = "erenbabysharkyeager",
+        Time = nil,
+        Day = 3,
+        Key = "DYHUB-KEY3DAY"
+    },
     ["rip_sae877"] = {
         Tag = "vitrox2",
         Time = nil,
