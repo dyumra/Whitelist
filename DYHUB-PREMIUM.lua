@@ -141,6 +141,12 @@ return {
         Day = nil,
         Key = "DYHUB-FU2JD-KIA1D-PKAHE-NAY6H-G51HA-LIFETIME"
     },
+    ["soytteeo"] = {
+        Tag = "pilot110737",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-P8A6G-LA6HD-NAH7A-N6H7G-T7HB1-LIFETIME"
+    },
     
     -- ====================== Buyer ==============================
     ["Denisamilcar7771"] = {
