@@ -105,7 +105,7 @@ return {
         Day = nil,
         Key = "DYHUB-3WTAB-KU6AG-P9WBA-OI5SA-YEGSY-LIFETIME"
     },
-    ["Lilgat24"] = {
+    ["DjScrew65"] = {
         Tag = "pizzaman7654",
         Time = "Lifetime",
         Day = nil,
