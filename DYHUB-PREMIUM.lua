@@ -155,13 +155,6 @@ return {
         Day = 7,
         Key = "DYHUB-XQJ29-M8K7H-PL4D6-2YWQ1-7BR85-KEY7DAY"
     },
-    ["rfar400"] = {
-        Tag = "_ipul_",
-        Time = nil,
-        Day = 1,
-        Key = "DYHUB-KEY1DAY"
-    },
-
 
     -- ====================== Booster ==============================
     ["jssjshszs762"] = {
