@@ -213,4 +213,10 @@ return {
         Day = 7,
         Key = "DYHUB-FT6UW-KEY7DAY" -- giveaway 
     },
+    ["TWOG_Dayum"] = {
+        Tag = "karlo2862",
+        Time = nil,
+        Day = 3,
+        Key = "DYHUB-KL2PO-KEY3DAY" -- giveaway 
+    },
 }
