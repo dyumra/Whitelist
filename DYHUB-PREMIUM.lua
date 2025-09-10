@@ -184,35 +184,11 @@ return {
     },
 
     -- ====================== Giveaway =============================
-    ["Hiimnew928289alt2"] = {
-        Tag = "rip_v1p",
-        Time = nil,
-        Day = 12,
-        Key = "DYHUB-KU7AH-Q2B5A-MKG5A-B5S4E-I7GA3-KEY14DAY"
-    },
-    ["bbqchickenloler"] = {
-        Tag = "lollanger",
-        Time = nil,
-        Day = 7,
-        Key = "DYHUB-HY6AG-BH68A-L9P87-E3R2Q-K8U64-KEY7DAY"
-    },
-    ["Choybulosan"] = {
-        Tag = "aw03093",
+    ["jacklng2"] = {
+        Tag = "bozoguy321",
         Time = nil,
         Day = 3,
-        Key = "DYHUB-KEY1DAY"
-    },
-    ["zyggpogi877"] = {
-        Tag = "lucaskye90",
-        Time = nil,
-        Day = 3,
-        Key = "DYHUB-KEY1DAY"
-    },
-    ["BabySharkCuteRoblox"] = {
-        Tag = "erenbabysharkyeager",
-        Time = nil,
-        Day = 3,
-        Key = "DYHUB-KEY3DAY"
+        Key = "DYHUB-HP4W3-KEY3DAY" -- giveaway 
     },
     ["rip_sae877"] = {
         Tag = "vitrox2",
