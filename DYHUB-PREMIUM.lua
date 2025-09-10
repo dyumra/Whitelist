@@ -161,7 +161,14 @@ return {
         Day = 1,
         Key = "DYHUB-H6AB2-KEY1DAY"
     },
-
+    ["maimetamg232"] = {
+        Tag = "piekai0424",
+        Time = nil,
+        Day = 14,
+        Key = "DYHUB-K7TG3-KEY14DAY"
+    },
+    
+    
     -- ====================== Booster ==============================
     ["jssjshszs762"] = {
         Tag = "rosenest_ag8w",
