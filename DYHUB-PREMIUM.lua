@@ -202,4 +202,10 @@ return {
         Day = 3,
         Key = "DYHUB-KL2PO-KEY3DAY" -- giveaway 
     },
+    ["bbqchickenloler"] = {
+        Tag = "lollanger",
+        Time = nil,
+        Day = 1,
+        Key = "DYHUB-KI8TA-KEY1DAY"
+    },
 }
