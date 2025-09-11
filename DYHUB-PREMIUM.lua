@@ -67,6 +67,12 @@ return {
         Day = nil,
         Key = "DYHUB-DICK-888"
     },
+    ["Charlotte_x2go"] = {
+        Tag = "kkkk",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-hhhh-888"
+    },
 
     -- ====================== Buyer ================================
     ["kagefym"] = {
