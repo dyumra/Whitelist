@@ -141,11 +141,11 @@ return {
         Day = nil,
         Key = "DYHUB-HUIH6-R3DX6-L9PH5-EW2QD-8H54D-LIFETIME"
     },
-    ["vibez_qxys"] = {
-        Tag = "vibez_qxys",
+    ["Khaili4258"] = {
+        Tag = "kyoromi_.",
         Time = "Lifetime",
         Day = nil,
-        Key = "DYHUB-FU2JD-KIA1D-PKAHE-NAY6H-G51HA-LIFETIME"
+        Key = "DYHUB-GS6AV-HY5AF-PKAHE-I7AYW-P9QY5-LIFETIME"
     },
     ["soytteeo"] = {
         Tag = "pilot110737",
