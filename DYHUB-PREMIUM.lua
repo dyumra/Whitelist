@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V720
+-- DYHUB-PREMIUM.lua | V722
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -208,10 +208,10 @@ return {
         Day = 3,
         Key = "DYHUB-KL2PO-KEY3DAY" -- giveaway 
     },
-    ["bbqchickenloler"] = {
-        Tag = "lollanger",
+    ["R0B10X018"] = {
+        Tag = "gamercrack018",
         Time = nil,
-        Day = 1,
-        Key = "DYHUB-KI8TA-KEY1DAY"
+        Day = 3,
+        Key = "DYHUB-H6AR1-KEY3DAY"
     },
 }
