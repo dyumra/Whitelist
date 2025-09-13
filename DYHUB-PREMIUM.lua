@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V719
+-- DYHUB-PREMIUM.lua | V720
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -141,7 +141,7 @@ return {
         Day = nil,
         Key = "DYHUB-HUIH6-R3DX6-L9PH5-EW2QD-8H54D-LIFETIME"
     },
-    ["Khaili4258"] = {
+    ["Khalil4258"] = {
         Tag = "kyoromi_.",
         Time = "Lifetime",
         Day = nil,
