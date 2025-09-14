@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V723
+-- DYHUB-PREMIUM.lua | V724
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -158,6 +158,12 @@ return {
         Time = "Lifetime",
         Day = nil,
         Key = "DYHUB-F4AEQ-SR5AF-I4EAD-V5QRA-O8QYA-LIFETIME"
+    },
+    ["koreadog4"] = {
+        Tag = "idratherliethantoloseyougirl",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-W3RQ5-Y2BA4-I7QY4-P9AU1-B5W3I-LIFETIME"
     },
     
     -- ====================== Buyer ==============================
