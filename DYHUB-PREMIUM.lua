@@ -7,7 +7,7 @@ return {
         Day = 99999999,
         Key = "DYHUB-OWNER"
     },
-    ["dyhub_01L01"] = {
+    ["Vo_y69gREwj"] = {
         Tag = "DYHUB01",
         Time = nil,
         Day = 99999999,
