@@ -226,4 +226,10 @@ return {
         Day = 3,
         Key = "DYHUB-H6AR1-KEY3DAY"
     },
+    ["rshyamqdsy90"] = {
+        Tag = "oldsasuke.",
+        Time = nil,
+        Day = 7,
+        Key = "DYHUB-P8KA1-G5T1A-KEY7DAY"
+    },
 }
