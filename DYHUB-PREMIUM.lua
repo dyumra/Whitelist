@@ -185,6 +185,12 @@ return {
         Day = 3,
         Key = "DYHUB-B6H3A-KEY3DAY"
     },
+    ["Kenyto25"] = {
+        Tag = "kennyisrael.",
+        Time = nil,
+        Day = 2,
+        Key = "DYHUB-ERA5P-KEY2DAY"
+    },
     ["maimetamg232"] = {
         Tag = "piekai0424",
         Time = nil,
