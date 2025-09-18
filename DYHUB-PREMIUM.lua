@@ -185,7 +185,7 @@ return {
         Day = 3,
         Key = "DYHUB-B6H3A-KEY3DAY"
     },
-    ["Kenyto25"] = {
+    ["kenyto25"] = {
         Tag = "kennyisrael.",
         Time = nil,
         Day = 2,
