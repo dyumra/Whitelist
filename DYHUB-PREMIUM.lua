@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V724
+-- DYHUB-PREMIUM.lua | V725
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -153,7 +153,7 @@ return {
         Day = nil,
         Key = "DYHUB-P8A6G-LA6HD-NAH7A-N6H7G-T7HB1-LIFETIME"
     },
-    ["PH_Thera"] = {
+    ["Venom120veno"] = {
         Tag = "66_k0",
         Time = "Lifetime",
         Day = nil,
