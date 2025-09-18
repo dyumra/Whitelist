@@ -165,6 +165,12 @@ return {
         Day = nil,
         Key = "DYHUB-W3RQ5-Y2BA4-I7QY4-P9AU1-B5W3I-LIFETIME"
     },
+    ["growwltokens1"] = {
+        Tag = "growwltoken",
+        Time = nil,
+        Day = 24,
+        Key = "DYHUB-HUIH6-R3DX6-KEY24DAY"
+    },
     
     -- ====================== Buyer ==============================
     ["Denisamilcar7771"] = {
