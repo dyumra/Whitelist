@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V727
+-- DYHUB-PREMIUM.lua | V728
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -203,7 +203,7 @@ return {
         Day = 2,
         Key = "DYHUB-ERA5P-KEY2DAY"
     },
-    ["maimetamg232"] = {
+    ["ChanomAroiMakMak"] = {
         Tag = "piekai0424",
         Time = nil,
         Day = 14,
