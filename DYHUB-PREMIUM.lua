@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V728
+-- DYHUB-PREMIUM.lua | V729
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -176,6 +176,12 @@ return {
         Time = "Lifetime",
         Day = nil,
         Key = "DYHUB-KUA5Q-T4QEA-I7TA4-U5RQA-T5RQ3-LIFETIME"
+    },
+    ["popj29"] = {
+        Tag = "deathtopias",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-S4QE2-T4WEQ-Y6TW4-I7YA5-Q29IJ-LIFETIME"
     },
     ["growwltokens1"] = {
         Tag = "growwltoken",
