@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V732
+-- DYHUB-PREMIUM.lua | V732.5
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -141,7 +141,7 @@ return {
         Day = nil,
         Key = "DYHUB-JUYV2-A7OIQ-MJ42P-L8KQW-GD4A3-LIFETIME"
     },
-    ["NeoAsuraGD"] = {
+    ["Gokusuperblu384"] = {
         Tag = "silent_erro",
         Time = "Lifetime",
         Day = nil,
