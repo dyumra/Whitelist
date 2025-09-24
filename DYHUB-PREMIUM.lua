@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V731
+-- DYHUB-PREMIUM.lua | V732
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -72,6 +72,12 @@ return {
         Time = "Lifetime",
         Day = nil,
         Key = "DYHUB-hhhh-888"
+    },
+    ["fivooooo"] = {
+        Tag = "nano_1010.",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-NANO-LIFETIME"
     },
 
     -- ====================== Buyer ================================
