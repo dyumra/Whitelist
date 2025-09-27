@@ -250,29 +250,17 @@ return {
     },
 
     -- ====================== Giveaway =============================
-    ["jacklng2"] = {
-        Tag = "bozoguy321",
-        Time = nil,
-        Day = 3,
-        Key = "DYHUB-HP4W3-KEY3DAY" -- giveaway 
-    },
     ["rip_sae877"] = {
         Tag = "vitrox2",
         Time = nil,
         Day = 7,
         Key = "DYHUB-FT6UW-KEY7DAY" -- giveaway 
     },
-    ["TWOG_Dayum"] = {
-        Tag = "karlo2862",
+    ["iamskid6712"] = {
+        Tag = "_wydlunar_",
         Time = nil,
-        Day = 3,
-        Key = "DYHUB-KL2PO-KEY3DAY" -- giveaway 
-    },
-    ["R0B10X018"] = {
-        Tag = "gamercrack018",
-        Time = nil,
-        Day = 3,
-        Key = "DYHUB-H6AR1-KEY3DAY"
+        Day = 1,
+        Key = "DYHUB-K7YQ8-KEY1DAY"
     },
     ["rshyamqdsy90"] = {
         Tag = "oldsasuke.",
