@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V733.1
+-- DYHUB-PREMIUM.lua | V733.2
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -236,11 +236,11 @@ return {
     
     
     -- ====================== Booster ==============================
-    ["jssjshszs762"] = {
-        Tag = "rosenest_ag8w",
+    ["gugageme_brs"] = {
+        Tag = "piadocas2020",
         Time = nil,
-        Day = 8,
-        Key = "DYHUB-ROSENEST-3DAY"
+        Day = 14,
+        Key = "DYHUB-P9QUA-DRE5R-T4UA8-O7ETA-R5Q0W-KEYBOOSTER"
     },
     ["accountac7"] = {
         Tag = "zeroless2",
