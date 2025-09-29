@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V733.9
+-- DYHUB-PREMIUM.lua | V734.0
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -280,8 +280,8 @@ return {
         Day = 7,
         Key = "DYHUB-FT6UW-KEY7DAY" -- giveaway 
     },
-    ["iamskid6712"] = {
-        Tag = "_wydlunar_",
+    ["Khopribara"] = {
+        Tag = "ksmsoskmx",
         Time = nil,
         Day = 1,
         Key = "DYHUB-K7YQ8-KEY1DAY"
