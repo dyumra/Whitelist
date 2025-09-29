@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V733.7
+-- DYHUB-PREMIUM.lua | V733.8
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -213,7 +213,7 @@ return {
         Day = nil,
         Key = "DYHUB-Y5RA2-U6TW1-O8WUA-G6QT8-M8NQ5-LIFETIME"
     },
-    ["Doremon0258"] = {
+    ["doremon0258"] = {
         Tag = "tantran7258",
         Time = "Lifetime",
         Day = nil,
