@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V733.6
+-- DYHUB-PREMIUM.lua | V733.7
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -141,7 +141,7 @@ return {
         Day = nil,
         Key = "DYHUB-JUYV2-A7OIQ-MJ42P-L8KQW-GD4A3-LIFETIME"
     },
-    ["NeoAsuraGD"] = {
+    ["gokusuperblu384"] = {
         Tag = "silent_erro",
         Time = "Lifetime",
         Day = nil,
@@ -212,6 +212,12 @@ return {
         Time = "Lifetime",
         Day = nil,
         Key = "DYHUB-Y5RA2-U6TW1-O8WUA-G6QT8-M8NQ5-LIFETIME"
+    },
+    ["Doremon0258"] = {
+        Tag = "tantran7258",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-Y5WR8-P9UQ4-E4W5U-RQ3WM-V4TW7-LIFETIME"
     },
     ["growwltokens1"] = {
         Tag = "growwltoken",
