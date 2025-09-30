@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V734.3
+-- DYHUB-PREMIUM.lua | V734.4
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -231,11 +231,17 @@ return {
         Day = nil,
         Key = "DYHUB-P7R5Q-S3U2T-H6TQ4-C4T6Q-B6A4C-LIFETIME"
     },
+    ["douyin00362"] = {
+        Tag = "bunnyphotos",
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-L8JA4-S3U2T-H6TQ4-C4T6Q-S4QT3-LIFETIME"
+    },
     ["growwltokens1"] = {
         Tag = "growwltoken",
-        Time = nil,
-        Day = 24,
-        Key = "DYHUB-HUIH6-R3DX6-KEY24DAY"
+        Time = "Lifetime",
+        Day = nil,
+        Key = "DYHUB-SINISTER"
     },
     
     -- ====================== Buyer ==============================
