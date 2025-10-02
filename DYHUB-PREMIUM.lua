@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V734.6
+-- DYHUB-PREMIUM.lua | V734.7
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -250,6 +250,12 @@ return {
         Time = nil,
         Day = 7,
         Key = "DYHUB-XQJ29-M8K7H-PL4D6-2YWQ1-7BR85-KEY7DAY"
+    },
+    ["Zeyss404"] = {
+        Tag = "itsme_joo",
+        Time = nil,
+        Day = 24,
+        Key = "DYHUB-XQJ29-F4A3Q-K8JA6-7BR85-KEY24DAY"
     },
     ["xx3_oz"] = {
         Tag = "x3_oz",
