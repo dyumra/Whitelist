@@ -73,7 +73,7 @@ return {
         Day = nil,
         Key = "DYHUB-hhhh-888"
     },
-    ["besta_536"] = {
+    ["fivooooo"] = {
         Tag = "nano_1010.",
         Time = "Lifetime",
         Day = nil,
