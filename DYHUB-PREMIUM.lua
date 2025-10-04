@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V734.9
+-- DYHUB-PREMIUM.lua | V734.0
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -275,7 +275,12 @@ return {
         Day = 14,
         Key = "DYHUB-K7TG3-KEY14DAY"
     },
-    
+    ["xCipherSEC"] = {
+        Tag = "ivorynex",
+        Time = nil,
+        Day = 1,
+        Key = "DYHUB-P8MA5-KEY1DAY"
+    },
     
     -- ====================== Booster ==============================
     ["gugageme_brs"] = {
