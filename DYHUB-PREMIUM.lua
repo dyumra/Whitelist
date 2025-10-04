@@ -1,4 +1,4 @@
--- DYHUB-PREMIUM.lua | V734.7
+-- DYHUB-PREMIUM.lua | V734.9
 return {
     -- ====================== Admin ================================
     ["Yolmar_43"] = {
@@ -283,6 +283,12 @@ return {
         Time = nil,
         Day = 14,
         Key = "DYHUB-P9QUA-DRE5R-T4UA8-O7ETA-R5Q0W-KEYBOOSTER"
+    },
+    ["MeliMalice"] = {
+        Tag = "melimalice",
+        Time = nil,
+        Day = 3,
+        Key = "DYHUB-J7R85-KEYBOOSTER"
     },
 
     -- ====================== Giveaway =============================
